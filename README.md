@@ -79,6 +79,7 @@ mv ajaxcrud-master ajaxcrud
 ````
 
 # Training files
- A set of HTML, PHP and JS files for teaching / reference purposes are available in the `training` folder.
- 
+* A set of HTML, PHP and JS files for teaching / reference purposes are available in the `training` folder.
+* The `training` folder now has a Quick 'n' dirty WebForm training example as well
+
  

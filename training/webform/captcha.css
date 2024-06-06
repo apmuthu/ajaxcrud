@@ -1,0 +1,37 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#wb_Captcha1 span
+{
+   display: block;
+   overflow: hidden;
+   padding: 0 0px 0 5px;
+}
+#Captcha1
+{
+   box-sizing: border-box;
+   margin: 0;
+   border: 1px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 13px;
+   text-align: left;
+   padding: 4px 4px 4px 4px;
+}
+#Captcha1:focus
+{
+   outline: 0;
+}
