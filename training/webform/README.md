@@ -10,7 +10,7 @@
 * `FLUSH PRIVILEGES;`
 * Upload the `assets` and `webform` folder
 * Edit the `webform/index.php` and the `webform` table as appropriate
-
+* Set the DB Username and Password in line 145 of `webform/index.php`
 
 ### Two column Radio box
 * Replace lines 40-45 in `webform/index.php` with:
